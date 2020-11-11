@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schreibtools", "Schreibtools\Schreibtools.csproj", "{65AEAD80-36B7-4F37-AC4E-13D5430B7BE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65AEAD80-36B7-4F37-AC4E-13D5430B7BE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65AEAD80-36B7-4F37-AC4E-13D5430B7BE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65AEAD80-36B7-4F37-AC4E-13D5430B7BE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65AEAD80-36B7-4F37-AC4E-13D5430B7BE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CCBEC41-9C61-4493-8F19-E1C15FF8D9DD}
+	EndGlobalSection
+EndGlobal

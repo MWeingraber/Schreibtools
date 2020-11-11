@@ -1,0 +1,13 @@
+C:\Users\morit\OneDrive\Desktop\Schule\SEW\Screibtools\Schreibtools\Schreibtools\bin\Debug\netcoreapp3.1\Schreibtools.exe
+C:\Users\morit\OneDrive\Desktop\Schule\SEW\Screibtools\Schreibtools\Schreibtools\bin\Debug\netcoreapp3.1\Schreibtools.deps.json
+C:\Users\morit\OneDrive\Desktop\Schule\SEW\Screibtools\Schreibtools\Schreibtools\bin\Debug\netcoreapp3.1\Schreibtools.runtimeconfig.json
+C:\Users\morit\OneDrive\Desktop\Schule\SEW\Screibtools\Schreibtools\Schreibtools\bin\Debug\netcoreapp3.1\Schreibtools.runtimeconfig.dev.json
+C:\Users\morit\OneDrive\Desktop\Schule\SEW\Screibtools\Schreibtools\Schreibtools\bin\Debug\netcoreapp3.1\Schreibtools.dll
+C:\Users\morit\OneDrive\Desktop\Schule\SEW\Screibtools\Schreibtools\Schreibtools\bin\Debug\netcoreapp3.1\Schreibtools.pdb
+C:\Users\morit\OneDrive\Desktop\Schule\SEW\Screibtools\Schreibtools\Schreibtools\obj\Debug\netcoreapp3.1\Schreibtools.csprojAssemblyReference.cache
+C:\Users\morit\OneDrive\Desktop\Schule\SEW\Screibtools\Schreibtools\Schreibtools\obj\Debug\netcoreapp3.1\Schreibtools.AssemblyInfoInputs.cache
+C:\Users\morit\OneDrive\Desktop\Schule\SEW\Screibtools\Schreibtools\Schreibtools\obj\Debug\netcoreapp3.1\Schreibtools.AssemblyInfo.cs
+C:\Users\morit\OneDrive\Desktop\Schule\SEW\Screibtools\Schreibtools\Schreibtools\obj\Debug\netcoreapp3.1\Schreibtools.csproj.CoreCompileInputs.cache
+C:\Users\morit\OneDrive\Desktop\Schule\SEW\Screibtools\Schreibtools\Schreibtools\obj\Debug\netcoreapp3.1\Schreibtools.dll
+C:\Users\morit\OneDrive\Desktop\Schule\SEW\Screibtools\Schreibtools\Schreibtools\obj\Debug\netcoreapp3.1\Schreibtools.pdb
+C:\Users\morit\OneDrive\Desktop\Schule\SEW\Screibtools\Schreibtools\Schreibtools\obj\Debug\netcoreapp3.1\Schreibtools.genruntimeconfig.cache
